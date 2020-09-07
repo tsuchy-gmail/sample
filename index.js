@@ -1,11 +1,7 @@
 
 
-window.alert('hello!')
 
 
-window.alert('feature')
-
-
-window.alert('git')
-
-console.log('hey!')
+window.alert('alert')
+window.confirm('confirm')
+window.prompt('prompt')
